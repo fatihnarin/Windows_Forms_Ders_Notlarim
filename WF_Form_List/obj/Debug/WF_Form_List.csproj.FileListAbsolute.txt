@@ -1,0 +1,30 @@
+D:\Turan\WF_Form_List\WF_Form_List\bin\Debug\WF_Form_List.exe.config
+D:\Turan\WF_Form_List\WF_Form_List\bin\Debug\WF_Form_List.exe
+D:\Turan\WF_Form_List\WF_Form_List\bin\Debug\WF_Form_List.pdb
+D:\Turan\WF_Form_List\WF_Form_List\obj\Debug\WF_Form_List.csprojAssemblyReference.cache
+D:\Turan\WF_Form_List\WF_Form_List\obj\Debug\WF_Form_List.AnaForm.resources
+D:\Turan\WF_Form_List\WF_Form_List\obj\Debug\WF_Form_List.Properties.Resources.resources
+D:\Turan\WF_Form_List\WF_Form_List\obj\Debug\WF_Form_List.csproj.GenerateResource.cache
+D:\Turan\WF_Form_List\WF_Form_List\obj\Debug\WF_Form_List.csproj.CoreCompileInputs.cache
+D:\Turan\WF_Form_List\WF_Form_List\obj\Debug\WF_Form_List.exe
+D:\Turan\WF_Form_List\WF_Form_List\obj\Debug\WF_Form_List.pdb
+D:\Turan\WF_Form_List\WF_Form_List\obj\Debug\WF_Form_List.List.resources
+D:\Turan\WF_Form_List\WF_Form_List\obj\Debug\WF_Form_List.NormalForm.resources
+D:\Turan\WF_Form_List\WF_Form_List\obj\Debug\WF_Form_List.TopluIslemler.resources
+E:\BTKAKADEMİ\C#\WF_Form_List (1)\WF_Form_List\WF_Form_List\bin\Debug\WF_Form_List.exe.config
+E:\BTKAKADEMİ\C#\WF_Form_List (1)\WF_Form_List\WF_Form_List\bin\Debug\WF_Form_List.exe
+E:\BTKAKADEMİ\C#\WF_Form_List (1)\WF_Form_List\WF_Form_List\bin\Debug\WF_Form_List.pdb
+E:\BTKAKADEMİ\C#\WF_Form_List (1)\WF_Form_List\WF_Form_List\bin\Debug\Validation.dll
+E:\BTKAKADEMİ\C#\WF_Form_List (1)\WF_Form_List\WF_Form_List\bin\Debug\Validation.xml
+E:\BTKAKADEMİ\C#\WF_Form_List (1)\WF_Form_List\WF_Form_List\obj\Debug\WF_Form_List.csproj.AssemblyReference.cache
+E:\BTKAKADEMİ\C#\WF_Form_List (1)\WF_Form_List\WF_Form_List\obj\Debug\WF_Form_List.AnaForm.resources
+E:\BTKAKADEMİ\C#\WF_Form_List (1)\WF_Form_List\WF_Form_List\obj\Debug\WF_Form_List.List.resources
+E:\BTKAKADEMİ\C#\WF_Form_List (1)\WF_Form_List\WF_Form_List\obj\Debug\WF_Form_List.NormalForm.resources
+E:\BTKAKADEMİ\C#\WF_Form_List (1)\WF_Form_List\WF_Form_List\obj\Debug\WF_Form_List.Properties.Resources.resources
+E:\BTKAKADEMİ\C#\WF_Form_List (1)\WF_Form_List\WF_Form_List\obj\Debug\WF_Form_List.TopluIslemler.resources
+E:\BTKAKADEMİ\C#\WF_Form_List (1)\WF_Form_List\WF_Form_List\obj\Debug\WF_Form_List.YavruForm.resources
+E:\BTKAKADEMİ\C#\WF_Form_List (1)\WF_Form_List\WF_Form_List\obj\Debug\WF_Form_List.csproj.GenerateResource.cache
+E:\BTKAKADEMİ\C#\WF_Form_List (1)\WF_Form_List\WF_Form_List\obj\Debug\WF_Form_List.csproj.CoreCompileInputs.cache
+E:\BTKAKADEMİ\C#\WF_Form_List (1)\WF_Form_List\WF_Form_List\obj\Debug\WF_Form_List.csproj.CopyComplete
+E:\BTKAKADEMİ\C#\WF_Form_List (1)\WF_Form_List\WF_Form_List\obj\Debug\WF_Form_List.exe
+E:\BTKAKADEMİ\C#\WF_Form_List (1)\WF_Form_List\WF_Form_List\obj\Debug\WF_Form_List.pdb

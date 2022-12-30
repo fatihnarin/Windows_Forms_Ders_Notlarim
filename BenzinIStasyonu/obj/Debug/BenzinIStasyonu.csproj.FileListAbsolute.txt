@@ -1,0 +1,10 @@
+E:\BTKAKADEMİ\C#\WF_Form_List (1)\WF_Form_List\BenzinIStasyonu\bin\Debug\BenzinIStasyonu.exe.config
+E:\BTKAKADEMİ\C#\WF_Form_List (1)\WF_Form_List\BenzinIStasyonu\bin\Debug\BenzinIStasyonu.exe
+E:\BTKAKADEMİ\C#\WF_Form_List (1)\WF_Form_List\BenzinIStasyonu\bin\Debug\BenzinIStasyonu.pdb
+E:\BTKAKADEMİ\C#\WF_Form_List (1)\WF_Form_List\BenzinIStasyonu\obj\Debug\BenzinIStasyonu.Form1.resources
+E:\BTKAKADEMİ\C#\WF_Form_List (1)\WF_Form_List\BenzinIStasyonu\obj\Debug\BenzinIStasyonu.Properties.Resources.resources
+E:\BTKAKADEMİ\C#\WF_Form_List (1)\WF_Form_List\BenzinIStasyonu\obj\Debug\BenzinIStasyonu.csproj.GenerateResource.cache
+E:\BTKAKADEMİ\C#\WF_Form_List (1)\WF_Form_List\BenzinIStasyonu\obj\Debug\BenzinIStasyonu.csproj.CoreCompileInputs.cache
+E:\BTKAKADEMİ\C#\WF_Form_List (1)\WF_Form_List\BenzinIStasyonu\obj\Debug\BenzinIStasyonu.exe
+E:\BTKAKADEMİ\C#\WF_Form_List (1)\WF_Form_List\BenzinIStasyonu\obj\Debug\BenzinIStasyonu.pdb
+E:\BTKAKADEMİ\C#\WF_Form_List (1)\WF_Form_List\BenzinIStasyonu\obj\Debug\BenzinIStasyonu.csproj.AssemblyReference.cache
